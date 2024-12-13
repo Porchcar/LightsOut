@@ -6,9 +6,9 @@ An common game but in python use tkinter and numpy array.<br>
 When you open program,It will show a window like this:<br>
 当运行程序后，会显示窗口：<br>
 
-![windowimage](windowimageforREADME.png)
+![windowimage](windowimageforREADME2.png)
 
-<br>(program version 1.0,without translate)<br>(1.0版本，没翻译)<br>
+<br>
 You can change gameboard's side length from the scale.<br>
 您可以通过最上方的拖拽条更改棋盘的边长。
 
